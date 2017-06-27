@@ -1,3 +1,5 @@
 Hello World!! WelCome to GIT
 
-Hello Edited in master branch"
+Hello Edited in master branch
+Edited in Branch2
+
