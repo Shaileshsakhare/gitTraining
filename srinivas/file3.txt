@@ -1,0 +1,6 @@
+
+Edited from master
+
+This is file3
+Edited from branch 2
+
