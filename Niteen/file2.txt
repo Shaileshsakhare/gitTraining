@@ -1,5 +1,4 @@
 Hello World!! WelCome to GIT
 
 Hello Edited in master File
-Edited by branch3
-
+Edited by branch3, generated conflict
