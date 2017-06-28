@@ -1,0 +1,2 @@
+Conflict file
+Branch2 conflict
