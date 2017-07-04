@@ -1,2 +1,3 @@
-conflict file
+conflict file modified
+changed
 this is the conflict
