@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+this is the second file is edited now"Again edited".
+=======
+this is the second file.
+>>>>>>> parent of a5c7817... edited and pushed
+=======
+this is the second file is edited now.
+>>>>>>> parent of 7bdfb22... second commit
