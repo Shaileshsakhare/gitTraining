@@ -1,2 +1,4 @@
 new content added
 master branch content
+conflict branch content
+
