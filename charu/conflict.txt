@@ -1,3 +1,1 @@
-conflict file modified
-changed
-this is the conflict
+new content added
