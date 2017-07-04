@@ -1,1 +1,2 @@
 new content added
+conflict branch content
