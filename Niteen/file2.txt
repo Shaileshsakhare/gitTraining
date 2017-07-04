@@ -1,5 +1,7 @@
 Hello World!! WelCome to GIT
 
-Hello Edited in master branch
-Edited in Branch2
+
+Hello Edited in master File
+Edited by branch3, generated conflict
+
 
